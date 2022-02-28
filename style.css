@@ -1,0 +1,16 @@
+.ss-option-no__key-assist.ss-option-no__key-assist {
+    display: none;
+}
+.surveysparrow-survey-container--classic-form .ss_cl_survey_qstn_item .ss_options_container .ss_multiple_choice.stacked {
+    flex-direction: row;
+}
+.answer-option--file-input {
+    height:220px;
+}
+.ss-skip-container .ss-skip-action-btn {
+    color:#BFD7D1;
+}
+.ss-answer-option--choice {
+    background: darkslategray;
+    color: white;
+}
